@@ -1,0 +1,1 @@
+SELECT "Lead Studio" FROM Movies WHERE "Rotten Tomatoes %" >= "80";
